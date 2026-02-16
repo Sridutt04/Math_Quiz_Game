@@ -33,6 +33,9 @@ This project is a beginner-friendly Python application that:
 - time module
 
 ---
+## 📊 Sample Output
+<img width="569" height="488" alt="Screenshot 2026-02-15 at 6 19 18 PM" src="https://github.com/user-attachments/assets/418753a0-434b-4090-bd52-a19497c2a8ef" />
+
 
 ## ▶️ How to Run the Project
 
